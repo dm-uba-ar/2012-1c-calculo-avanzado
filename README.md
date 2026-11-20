@@ -1,10 +1,5 @@
 # Cálculo Avanzado — Primer cuatrimestre de 2012
 
-## Equipo docente
-
-- **Clases teóricas:** Cristina Lopez
-- **Clases prácticas:** Román Villafañe, Daniel Kohen, Pablo Blanc
-
 ## Prácticas
 
 - [practica1](practica1.pdf)
@@ -16,12 +11,6 @@
 - [practica7](practica7.pdf)
 - [practica8](practica8.pdf)
 - [practica9](practica9.pdf)
-
-## Bibliografía
-
-- Puede consultarse aquí .
-- Normas de higiene y seguridad
-- Created by slaplagn
 
 ## Página original
 
